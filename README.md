@@ -24,10 +24,6 @@ Desenvolvimento da página inicial da  Alura Book, utilizando a metodologia mobi
 - Uso do Figma como parâmetro estético para a página;
 - Elaboração da responsividade para dispositivos móveis, tablets e desktops;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/alura-book/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
